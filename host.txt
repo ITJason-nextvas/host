@@ -1,0 +1,61 @@
+# 0.0.0.0 youtube.com
+# 0.0.0.0 www.youtube.com
+# 0.0.0.0 music.youtube.com
+# 0.0.0.0 m.youtube.com
+# 0.0.0.0 youtu.be
+# 0.0.0.0 i.ytimg.com
+# 0.0.0.0 ytimg.com
+# 0.0.0.0 s.ytimg.com
+# 0.0.0.0 yt3.ggpht.com
+# 0.0.0.0 googlevideo.com
+
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 fbcdn.net
+
+0.0.0.0 messenger.com
+0.0.0.0 www.messenger.com
+
+0.0.0.0 spotify.com
+0.0.0.0 open.spotify.com
+0.0.0.0 player.spotify.com
+
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 cdninstagram.com
+
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 v16m.tiktokcdn.com
+0.0.0.0 tiktokv.com
+
+0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
+0.0.0.0 mobile.twitter.com
+0.0.0.0 pbs.twimg.com
+
+0.0.0.0 www.genmirror.com
+0.0.0.0 www.youtubeunblocked.live.com
+0.0.0.0 www.atozproxy.com
+0.0.0.0 www.proxysite.com
+0.0.0.0 www.croxyproxy.com
+0.0.0.0 www.proxy-youtube.com
+0.0.0.0 www.hidemyass.com
+0.0.0.0 www.iwanttfc.com
+0.0.0.0 www.viu.com
+0.0.0.0 www.netflix.com
+0.0.0.0 www.huruwatch.at
+0.0.0.0 www.hdtoday.tv
+0.0.0.0 www.tinyzonetv.to
+0.0.0.0 www.ytmp3.nu
+0.0.0.0 www.mp3juices.cc
+0.0.0.0 www.openspotify.com
+0.0.0.0 www.vivamax.net
+0.0.0.0 discord.com
+0.0.0.0 www.discord.com
+0.0.0.0 shopee.com
+0.0.0.0 shopee.ph
+0.0.0.0 lazada.com
+0.0.0.0 lazada.ph
+0.0.0.0 www.lazada.com.ph
